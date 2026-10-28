@@ -2,7 +2,8 @@ Learn Mandarin
 ##############
 
 Based on Let's learn Mandarin books from Taiwan.
-Write using xournalpp.
+Write using xournalpp (install latest from
+https://github.com/xournalpp/xournalpp)
 
 Book 1 - 3:
 https://taiwancenter.taiwan-world.net/material/basic
