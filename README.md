@@ -16,6 +16,3 @@ qpdf --empty --pages teacher.pdf 101-144 -- 3.pdf
 
 Book 1 - 3:
 https://taiwancenter.taiwan-world.net/material/basic
-
-Book 1 flashcards:
-https://quizlet.com/user/OCAC_ESR/folders/107598275/sets
