@@ -1,5 +1,4 @@
-Learn Mandarin
-##############
+# Learn Mandarin
 
 Based on Let's learn Mandarin books from Taiwan.
 Write using xournalpp (install latest from
