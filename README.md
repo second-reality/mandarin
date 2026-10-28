@@ -16,3 +16,7 @@ qpdf --empty --pages teacher.pdf 101-144 -- 3.pdf
 
 Book 1 - 3:
 https://taiwancenter.taiwan-world.net/material/basic
+Book 4 - 6:
+https://taiwancenter.taiwan-world.net/material/intermediate
+
+Only 1-4 provide workbook/teacherbook and flashcards.
